@@ -1,0 +1,26 @@
+.custom-logo {
+  width: 400px;
+  height: 120px;
+  padding-left: 100px;
+}
+header {
+  height: 120px;
+  background-color: whitesmoke;
+  display: flex;
+}
+li a {
+  text-decoration: none;
+  color: #40356f;
+  font-weight: 800;
+}
+li {
+  list-style-type: none;
+}
+#menu-header {
+  display: flex;
+  padding-left: 300px;
+}
+#menu-header li {
+  padding-left: 50px;
+  margin: auto;
+}
