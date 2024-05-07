@@ -1,0 +1,6 @@
+.photoHome {
+  width: 1440px;
+  height: 760px;
+  object-fit: cover;
+  padding-top: 4px;
+}

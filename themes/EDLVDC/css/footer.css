@@ -1,0 +1,14 @@
+footer {
+  display: flex;
+  justify-content: center;
+  background-color: whitesmoke;
+}
+#menu-footer {
+  width: 620px;
+  display: flex;
+  justify-content: space-between;
+}
+#menu-footer li {
+  color: #40356f;
+  font-weight: 800;
+}
