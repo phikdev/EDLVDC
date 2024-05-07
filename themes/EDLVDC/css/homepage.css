@@ -1,8 +1,8 @@
 .photoHome {
   width: 1440px;
-  height: 760px;
+  height: 755px;
   object-fit: cover;
-  padding-top: 10px;
+  padding-top: 15px;
 }
 img.photoX {
   width: 500px;
@@ -12,7 +12,7 @@ img.photoX {
   justify-content: center;
 }
 .description {
-  font-size: 1.8em;
+  font-size: 1.7em;
   width: 1200px;
   margin: auto;
 }
