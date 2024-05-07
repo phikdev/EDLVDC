@@ -1,10 +1,12 @@
 footer {
+  height: 120px;
   display: flex;
   justify-content: center;
   background-color: whitesmoke;
 }
 #menu-footer {
   width: 620px;
+  margin: auto;
   display: flex;
   justify-content: space-between;
 }

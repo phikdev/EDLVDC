@@ -2,5 +2,20 @@
   width: 1440px;
   height: 760px;
   object-fit: cover;
-  padding-top: 4px;
+  padding-top: 10px;
+}
+img.photoX {
+  width: 500px;
+}
+.logo {
+  display: flex;
+  justify-content: center;
+}
+.description {
+  font-size: 1.8em;
+  width: 1200px;
+  margin: auto;
+}
+.description p {
+  color: #363b4e;
 }
